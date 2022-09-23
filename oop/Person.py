@@ -4,4 +4,5 @@ class Person:
         self.age = age
 
     def display(self):
-        print("Name: ", self.name, " Age: ", self.age)
+        print("Name: ", self.name)
+        print("Age: ", self.age)
