@@ -6,7 +6,7 @@ from .display_lines import display_lines
 from .display_words import display_words
 
 def main():
-    path = './fileHandling/'
+    path = './file_handling/'
     print('=====================')
 
     print('Displaying lines...\n')
